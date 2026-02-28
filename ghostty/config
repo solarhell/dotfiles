@@ -1,0 +1,39 @@
+# Font
+# 字体
+font-family = Monaco
+# 字号
+font-size = 14
+# macOS 上加粗渲染，提高清晰度
+font-thicken = true
+
+# Cursor
+# 光标样式为竖线
+cursor-style = bar
+# 光标闪烁
+cursor-style-blink = true
+
+# Theme
+# 主题
+theme = "Catppuccin Mocha"
+
+# Window
+# 左右内边距
+window-padding-x = 16
+# 上下内边距
+window-padding-y = 16
+# 自动平衡边距
+window-padding-balance = true
+# 透明标题栏
+macos-titlebar-style = transparent
+# 重启后恢复窗口状态
+window-save-state = always
+
+# Scrollback
+# 滚动缓冲区大小 (10MB, 惰性分配)
+scrollback-limit = 10000000
+
+# macOS
+# Option 键作为 Alt
+macos-option-as-alt = true
+# 打字时隐藏鼠标
+mouse-hide-while-typing = true
