@@ -22,6 +22,12 @@ brew install fish fisher eza bat fd dust bottom procs ripgrep fzf zoxide starshi
 | starship | - | 跨 shell 的 prompt |
 | trash | rm | 移到回收站而非永久删除 |
 
+## Starship Preset
+
+```bash
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+```
+
 ## Fisher Plugins
 
 ```bash
