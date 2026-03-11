@@ -32,6 +32,10 @@ window-save-state = always
 # 滚动缓冲区大小 (10MB, 惰性分配)
 scrollback-limit = 10000000
 
+# Shell Integration
+# SSH 时自动安装 terminfo，失败则回退到 xterm-256color
+shell-integration-features = ssh-terminfo,ssh-env
+
 # macOS
 # Option 键作为 Alt
 macos-option-as-alt = true
