@@ -23,6 +23,7 @@ abbr -a lt 'eza --tree --level=2 --icons=auto'
 abbr -a cat bat
 abbr -a find fd
 abbr -a du dust
+abbr -a tree 'eza --tree --icons=auto'
 abbr -a top btm
 abbr -a ps procs
 abbr -a grep rg

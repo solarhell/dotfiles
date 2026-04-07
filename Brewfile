@@ -1,5 +1,6 @@
 brew "aliyun-cli"
 brew "ansible"
+brew "bandwhich"
 brew "bat"
 brew "bottom"
 tap "bufbuild/buf"
@@ -89,3 +90,7 @@ mas "Xnip", id: 1221250572
 # Post-install:
 # fisher install jhillyerd/plugin-git
 # gh extension install drogers0/gh-image
+
+# Maintenance:
+# brew update && brew upgrade
+# brew cleanup --prune=all && brew doctor
