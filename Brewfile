@@ -46,7 +46,6 @@ brew "zoxide"
 
 cask "1password"
 cask "1password-cli"
-cask "awesun"
 cask "baidunetdisk"
 cask "bitwarden"
 cask "cherry-studio"
